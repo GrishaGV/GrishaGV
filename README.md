@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrishaGV
 - 👀 I’m interested in chess and videogames.
-- 🌱 I’m currently learning HTML, CSS, python.
+- 🌱 I’m currently learning HTML, CSS, Python.
 - 📫 How to reach me in Telegram - @LoloGrisha
 - ⚡ Fun fact: I am not a bot! (really!)
 <!---
